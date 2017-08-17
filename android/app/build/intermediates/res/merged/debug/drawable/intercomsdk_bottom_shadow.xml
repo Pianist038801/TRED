@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:angle="270"
+                android:endColor="#11000000"
+                android:centerColor="#05000000"
+                android:startColor="#00000000"
+                android:type="linear" />
+        </shape>
+    </item>
+</selector><!-- From: file:/Users/intercom/Agents/Android/Andy/work/5095e7c558cfdc56/intercom-sdk-base/src/main/res/drawable/intercomsdk_bottom_shadow.xml --><!-- From: file:/Volumes/MacData/Project/2016/react-native/Tred/TredMobile/android/app/build/intermediates/exploded-aar/io.intercom.android/intercom-sdk-base/1.1.16/res/drawable/intercomsdk_bottom_shadow.xml -->

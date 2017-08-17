@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-crop-tool/android/ReactNativeCrop.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-crop-tool/android/ReactNativeCrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-dropdown-android/android/ReactNativeDropdownAndroid.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-dropdown-android/android/ReactNativeDropdownAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TredMobile.iml" filepath="$PROJECT_DIR$/TredMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-android-notification/android/react-native-android-notification.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-android-notification/android/react-native-android-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fs/android/react-native-fs.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fs/android/react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-intercom/android/react-native-intercom.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-intercom/android/react-native-intercom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-maps/android/react-native-maps.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-maps/android/react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-mixpanel/android/react-native-mixpanel.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-mixpanel/android/react-native-mixpanel.iml" />
+    </modules>
+  </component>
+</project>

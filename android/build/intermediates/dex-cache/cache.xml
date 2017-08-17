@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/MacData/Project/2016/react-native/Tred/TredMobile/android/app/build/intermediates/exploded-aar/TredMobile/react-native-android-notification/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="10b460d2046e4e582d27bbe1178dd8f750a1d834">
+        <dex dex="/Volumes/MacData/Project/2016/react-native/Tred/TredMobile/android/app/build/intermediates/pre-dexed/debug/classes-9da8edffe9c6d734c5ebea755af5803b0f2a6280.jar" />
+    </item>
+
+</items>

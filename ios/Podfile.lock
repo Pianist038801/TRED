@@ -1,0 +1,18 @@
+PODS:
+  - Intercom (2.3.16)
+  - Mixpanel (2.9.1):
+    - Mixpanel/Mixpanel (= 2.9.1)
+  - Mixpanel/Mixpanel (2.9.1)
+  - Tune (4.1.0)
+
+DEPENDENCIES:
+  - Intercom
+  - Mixpanel
+  - Tune
+
+SPEC CHECKSUMS:
+  Intercom: 296dfb41c92ff90de23adb1d975d337aa9dd422f
+  Mixpanel: 5ca24b2a05f4c77fe9bcfe7671d681d0f3f8d76f
+  Tune: 5f57aa437d29fd9a94f83283457c1f867cf4cec1
+
+COCOAPODS: 0.39.0

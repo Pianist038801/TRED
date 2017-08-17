@@ -1,0 +1,6 @@
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Intercom" "${PODS_ROOT}/Tune"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Intercom" "${PODS_ROOT}/Headers/Public/Mixpanel" "${PODS_ROOT}/Headers/Public/Tune"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/Intercom" -isystem "${PODS_ROOT}/Headers/Public/Mixpanel" -isystem "${PODS_ROOT}/Headers/Public/Tune"
+OTHER_LDFLAGS = $(inherited) -ObjC -ObjC, -l"Mixpanel" -l"icucore" -l"xml2" -l"z" -framework "Accelerate" -framework "AdSupport" -framework "AssetsLibrary" -framework "AudioToolbox" -framework "CFNetwork" -framework "CoreGraphics" -framework "CoreTelephony" -framework "Foundation" -framework "ImageIO" -framework "Intercom" -framework "MobileCoreServices" -framework "QuartzCore" -framework "Security" -framework "StoreKit" -framework "SystemConfiguration" -framework "Tune" -framework "UIKit" -framework "iAd"
+PODS_ROOT = ${SRCROOT}/Pods
